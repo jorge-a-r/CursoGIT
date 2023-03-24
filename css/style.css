@@ -1,5 +1,13 @@
 body{
     background-color: aqua;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
     color: brown;
+}
+
+p{
+    color: black;
+    font-size: 12px;
 }
